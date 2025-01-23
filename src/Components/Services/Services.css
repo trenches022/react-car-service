@@ -1,0 +1,41 @@
+.service-container {
+  background-color: #2c2d2e;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+.services {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.services h2 {
+  color: #ff0015;
+  margin-bottom: 10px;
+}
+
+.services ul {
+  list-style: none; 
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.services ul li {
+  position: relative;
+  padding-left: 20px; 
+  margin-bottom: 5px;
+}
+
+.services ul li::before {
+  content: ""; 
+  position: absolute;
+  left: 41%;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 7px; 
+  height: 7px; 
+  background-color: #ff0015;
+  border-radius: 50%; 
+}
