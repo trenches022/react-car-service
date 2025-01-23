@@ -1,8 +1,13 @@
-# React + Vite
+# React Car Service App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Memory Game Screenshot](https://raw.githubusercontent.com/trenches022/react-car-service/master/car-screenshot.jpg)
 
-Currently, two official plugins are available:
+A fictional car repair service website built with React.js. This project showcases a modern website for a car service business.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Key Features:
+
+Informative and responsive design.
+
+Built with React.js, HTML, CSS, and JavaScript.
+
+Developed using Vite for enhanced performance.
