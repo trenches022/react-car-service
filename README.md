@@ -6,8 +6,8 @@ A fictional car repair service website built with React.js. This project showcas
 
 # Key Features:
 
-Informative and responsive design.
+* Informative and responsive design.
 
-Built with React.js, HTML, CSS, and JavaScript.
+* Built with React.js, HTML, CSS, and JavaScript.
 
-Developed using Vite for enhanced performance.
+* Developed using Vite for enhanced performance.
